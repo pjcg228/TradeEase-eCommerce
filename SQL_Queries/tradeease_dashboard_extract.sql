@@ -28,7 +28,7 @@ with cleaned_orders as (
     , row_number() over (partition by o.customer_id order by o.purchase_ts asc) as customer_numbered_order
   from
       `tradeease.orders` as o
-), -- close cte
+),
 
 cleaned_customers as (
   select
@@ -40,7 +40,7 @@ cleaned_customers as (
     , c.created_on
   from
       `tradeease.customers` as c
-), -- close cte
+),
 
 cleaned_geo_lookup as (
   select
@@ -53,7 +53,7 @@ cleaned_geo_lookup as (
       end) as cleaned_region
   from
       `tradeease.geo_lookup` as gl
-), -- close cte
+),
 
 cleaned_order_status as (
   select
@@ -69,7 +69,7 @@ cleaned_order_status as (
     , date_diff(os.refund_ts, os.purchase_ts, day) as purchase_to_refund_days
   from 
       `tradeease.order_status` as os
-) -- close cte
+)
 
 select
       co.customer_id
