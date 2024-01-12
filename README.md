@@ -15,7 +15,7 @@ Targeted SQL queries relating to these categories can also be found **[here](htt
 
 Tableau dashboard can be found **[here](https://public.tableau.com/app/profile/patrick.cairnes/viz/TradeEaseDashboard/MarketingChannelPerformance)**
 
-## Database Structure & Initial Checks
+## Dataset Structure & Initial Checks
 The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 78846 records.
 
 <kbd><img width="1200" alt="image" src="https://i.imgur.com/CTaGtpI.png" height="370"></kbd>
