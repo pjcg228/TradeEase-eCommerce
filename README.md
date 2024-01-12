@@ -7,7 +7,7 @@ The company has vasts amount of data on its sales, marketing efforts, operationa
 - **Product Performance** - An analysis of different product lines and their market impact.
 - **Loyalty Programme Performance** - Assessment of the loyalty programme's effectiveness and its future.
 - **Operational Effectiveness** - Evaluation of logistics and operational efficiency.
-- **Marketing Channel Effectiveness** - Analysis of various marketing channels and their return on investment."
+- **Marketing Channel Effectiveness** - Analysis of various marketing channels and their return on investment.
 
 The SQL queries performed to uncover these general insights are found **[here](https://github.com/pjcg228/TradeEase-eCommerce-Dev/blob/main/General%20SQL%20Analysis.sql)**
 
