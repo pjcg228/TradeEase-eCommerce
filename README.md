@@ -9,7 +9,7 @@ The company has vasts amount of data on its sales, marketing efforts, operationa
 - **Operational Effectiveness** - Evaluation of logistics and operational efficiency.
 - **Marketing Channel Effectiveness** - Analysis of various marketing channels and their return on investment.
 
-The SQL queries performed to uncover these general insights are found **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Commercial_Performance_Analysis.sql)
+The SQL queries performed to uncover these general insights are found **[here]**(https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Commercial_Performance_Analysis.sql)
 
 Targeted SQL queries relating to these categories can also be found **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Targeted_Business_Questions.sql)**
 
