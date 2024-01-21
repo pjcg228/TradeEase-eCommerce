@@ -22,7 +22,7 @@ The database structure as seen below consists of four tables: orders, customers,
 
 Prior to commencing the analysis, a series of checks have been carried out to gain an understanding of the data as well as identifying any potential quality issues. A snippet of the SQL code written to identify issues within the orders table can be found **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Initial_Checks.sql)**.
 
-While there were few quality issues found within the tables, they have been documented for completeness **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/tradeease_issue_log.xlsx)**. These issues ranged from ranged from product naming inconsistencies, missing countries, missing columns required for analysis, and nulls.
+While there were few quality issues found within the tables, they have been documented for completeness **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/tradeease_issue_log.xlsx)**. These issues ranged from product naming inconsistencies, missing countries, missing columns required for analysis, and nulls.
 
 ## Insights Summary
 The company's sales performance in 2022 witnessed a significant decline across the board, with annual revenue, orders placed, and average order value (AOV) all experiencing drops of **42%, 36%, and 9%, respectively,** compared to the figures from 2021. This decline can primarily be attributed to a return to normalcy following the easing of the COVID-19 pandemic. However, the following sections will explore additional factors which are potentially contributing to this reduction, as well highlighting key opportunity areas.
