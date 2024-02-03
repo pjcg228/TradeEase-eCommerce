@@ -49,12 +49,16 @@ The company's sales performance in 2022 witnessed a significant decline across t
 ## Recommendations
 Based on the insights listed above, the company should consider implementing the following recommendations:
 
+**Inventory Team**:
 - Leverage heavy Apple product offering in order to seek closer ties (preferred agreements) with distributors and also obtain volume-based discounts to ensure availability of stock and superior pricing, benefiting both the company’s profit margins and the customer base.
 - Add additional Samsung products to the offering, the company already sells Samsung accessories (webcams and charging cables) and is missing out on anchor products to further increase sales in these product lines.
 - Discount, eliminate, and replace Bose SoundSport Headphones from product offering. Investigate reasons for poor performance and apply findings to next product selection.
+- Place benchmarks on operational performance in line with industry standards to effectively assess the current position.
+
+**Retention Team**:
 - Investigate reasons for high performance of direct market channel and apply findings to the social media, email, and affiliate channels.
 - Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
-- Place benchmarks on operational performance in line with industry standards to effectively assess the current position.
+
   
 ## Dashboard Showcase
 The screenshot below showcases the "Marketing Channel Performance" section of the dashboard created as part of this project.
