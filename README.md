@@ -1,7 +1,7 @@
 ## Data-Driven Insights into TradeEase - Project Background & Objective:
 TradeEase, established in 2018, is a global e-commerce platform focusing on bringing the latest and most popular consumer electronics and accessories to customers worldwide.
 
-The company has vasts amount of data on its sales, marketing efforts, operational effectiveness, product offerings, and loyalty programme. This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing TradeEase's commercial performance. The project provides insights and recommendations on the following key areas:
+The company has vast amounts of data on its sales, marketing efforts, operational effectiveness, product offerings, and loyalty programme. This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing TradeEase's commercial performance. The project provides insights and recommendations on the following key areas:
 
 - **Sales Trends** - Focused on Revenue, Orders Placed, and Average Order Value (AOV).
 - **Product Performance** - An analysis of different product lines and their market impact.
@@ -16,7 +16,7 @@ Targeted SQL queries relating to these categories can also be found **[here](htt
 Tableau dashboard can be found **[here](https://public.tableau.com/app/profile/patrick.cairnes/viz/TradeEaseDashboard/MarketingChannelPerformance)**
 
 ## Dataset Structure & Initial Checks
-The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 78846 records.
+The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 78,846 records.
 
 <kbd><img width="1200" alt="image" src="https://i.imgur.com/CTaGtpI.png" height="370"></kbd>
 
