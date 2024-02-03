@@ -9,11 +9,11 @@ The company has vast amounts of data on its sales, marketing efforts, operationa
 - **Operational Effectiveness** - Evaluation of logistics and operational efficiency.
 - **Marketing Channel Effectiveness** - Analysis of various marketing channels and their return on investment.
 
-The SQL queries performed to uncover these general insights are found **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Commercial_Performance_Analysis.sql)**
+The SQL queries performed to uncover these general insights are found **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Commercial_Performance_Analysis.sql)**.
 
-Targeted SQL queries relating to these categories can also be found **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Targeted_Business_Questions.sql)**
+Targeted SQL queries relating to these categories can also be found **[here](https://github.com/pjcg228/TradeEase-eCommerce/blob/main/SQL_Queries/Targeted_Business_Questions.sql)**.
 
-Tableau dashboard can be found **[here](https://public.tableau.com/app/profile/patrick.cairnes/viz/TradeEaseDashboard/MarketingChannelPerformance)**
+Tableau dashboard can be found **[here](https://public.tableau.com/app/profile/patrick.cairnes/viz/TradeEaseDashboard/MarketingChannelPerformance)**.
 
 ## Dataset Structure & Initial Checks
 The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 78,846 records.
